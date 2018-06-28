@@ -22,7 +22,7 @@ The following **optional** functionality is completed:
 
 Here's a walkthrough of my ToDo app!
 
-http://recordit.co/wvzhioIcO9
+http://g.recordit.co/bsvD9QVlaC.gif
 
 Screen Capture recorded with Recordit!
 
